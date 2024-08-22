@@ -1,5 +1,14 @@
 ﻿# Aula 02 - Classes Atributos e métodos
+ 
+- Entender como funciona classes e atributos.
 
+Digitar "prop" para auto completar isso:
+
+```csharp
+public int MyProperty { get; set; }
+```
+Para criar atributos de uma classe.
+# Funcionario
 **Classe:** Funcionário.
 
 **Atributos:** ID, Nome, Cpf, Data de admissão, Salário e tipo de funcionário.
